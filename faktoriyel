@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T19:12:41.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="yg9mdMLbMSTdQxGvbG5l" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-24T19:21:12.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="yuZUWaWdQxI5Zqnaqb0K" version="13.8.1" type="github">
   <diagram id="jH1GI5BjsWm8AJg8R217" name="Page-1">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="ePmSvtoM-NmCf0jkC683-12" value="H" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ePmSvtoM-NmCf0jkC683-3" target="ePmSvtoM-NmCf0jkC683-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ePmSvtoM-NmCf0jkC683-3" value="i&amp;lt;sayi" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ePmSvtoM-NmCf0jkC683-3" value="i&amp;lt;=sayi" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ePmSvtoM-NmCf0jkC683-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ePmSvtoM-NmCf0jkC683-6" target="ePmSvtoM-NmCf0jkC683-8">
